@@ -5,7 +5,7 @@ title: Reading list
 
 
 <div class="message">
-  This is what I have been reading. Email me on katlanagaurish@gmail.com If you want to discuss or just chat. I mostly read non-fictions books. 
+  This is what I have been reading. Email me on katlanagaurish@gmail.com If you want to discuss or just chat. I mostly read non-fictions books.
 </div>
 
 ## 2021
