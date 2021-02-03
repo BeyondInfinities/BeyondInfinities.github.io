@@ -19,7 +19,7 @@ title: Reading list
 
 ## 2020
 
-Was really a short yeat didn't read that many books.
+Was really a short year didn't read that many books.
 
 - Sapiens: A brief history of Humankind
 - What everybody is saying?
