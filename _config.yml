@@ -6,8 +6,8 @@ highlighter:      pygments
 
 # Setup
 title:            Gaurish Katlana
-tagline:          'A CS student living in San Francisco '
-description:      ''
+tagline:          ''
+description:      'A CS student living in San Francisco, travelling around the world '
 url:              http://katlana.com
 baseurl:          /
 
@@ -15,7 +15,7 @@ author:
   name:           'Gaurish Katlana'
   url:            https://twitter.com/gkatlana
 
-paginate:         5
+paginate:         3
 
 
 github:
