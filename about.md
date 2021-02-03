@@ -9,4 +9,6 @@ title: About me
 
 If any of your interests match Feel free to contact me on [katlanagaurish@gmail.com](mailto:katlanagaurish@gmail.com) or [reach me on Twitter](https://twitter.com/gkatlana).
 
+You can also book a meeting slot on https://calendly.com/gaurish/15min
+
 Thanks for reading!
