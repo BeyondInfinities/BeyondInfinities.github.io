@@ -1,24 +1,25 @@
 ---
 layout: page
-title: Projects
+title: Productivity Tools
 ---
 
 This is a list of productivity tools I use on a day to day basis
 
 **Chrome Extensions**
-AdNauseum
-Grammarly extension
-Bypass Paywalls
-LastPass
-MyBib
-Momentum
-Video speed Controller
+> - AdNauseum
+> - Grammarly extension
+> - Bypass Paywalls
+> - LastPass
+> - MyBib
+> - Momentum
+> - Video speed Controller
 
 
 **Apps**
 
-MailSpring
-Telegram/Slack Apps
-CopyQ
-Flux
-RescueTime
+> - MailSpring
+> - Telegram/Slack Apps
+> - CopyQ
+> - Flux
+> - RescueTime
+> - Windows black and white color screen

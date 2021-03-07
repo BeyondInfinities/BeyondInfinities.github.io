@@ -5,19 +5,24 @@ title: Reading list
 
 
 <div class="message">
-  This is what I have been reading. Email me on katlanagaurish@gmail.com If you want to discuss or just chat. I mostly read non-fiction books.
+  This is what I have been reading. Email me on gaurish@katlana.com. If you want to discuss or just chat. I mostly read non-fiction books.
 </div>
 
 ## Future/Currently Reading
-
-- Nudge: Improving Decisions about Health, Wealth, and Happiness
-- When Breath Becomes Air
-- Being Mortal: Medicine and What Matters in the End
 - The Courage to Write: How Writers Transcend Fear
 - Stephen Fry Does "The Knowledge
+- Annihilation of Caste
+- Stiff: Curious life of corpses
+- On Writing: A Memoir of the Craft
+- The Immortal Life of Henrietta Lacks
+- Fast Track to Sailing by Steve Colgate
+- Gliding: From passenger to pilots
 
 ## 2021
 
+- Nudge: Improving Decisions about Health, Wealth, and Happiness
+- Being Mortal: Medicine and What Matters in the End
+- When Breath Becomes Air
 - The sense of style
 - Bird by bird Some instructions on Writing
 - The tell-tale brain
