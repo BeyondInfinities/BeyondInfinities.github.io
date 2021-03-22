@@ -17,6 +17,8 @@ title: Reading list
 - The Immortal Life of Henrietta Lacks
 - Fast Track to Sailing by Steve Colgate
 - Gliding: From passenger to pilots
+- Ethical sluts
+- Change by design
 
 ## 2021
 
