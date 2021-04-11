@@ -18,6 +18,7 @@ This is a list of productivity tools I use on a day to day basis
 **Apps**
 
 > - MailSpring
+> - Notion
 > - Telegram/Slack Apps
 > - CopyQ
 > - Flux
