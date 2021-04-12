@@ -48,10 +48,10 @@ Was really a short year didn't read that many books.
 - GEB
 - Diary of a Wimpy kid (Read over 200 times :) )
 
-#Podacasts
+##Podcasts
 
 I am not a big listener or a regular, I just like listening to these when I have time and patience.
 
 - 99% Invisible by Roman Matters
 - 80000 hours by Rob Wiblin
-- EconTalk by Russ Roberts 
+- EconTalk by Russ Roberts
