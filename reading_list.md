@@ -3,6 +3,11 @@ layout: page
 title: Reading list
 ---
 
+<script>
+ $(document).ready(function() {
+   $("body").addClass("animated fadeOut");
+ });
+</script>
 
 <div class="message">
   This is what I have been reading. Email me on gaurish@katlana.com. If you want to discuss or just chat. I mostly read non-fiction books.
