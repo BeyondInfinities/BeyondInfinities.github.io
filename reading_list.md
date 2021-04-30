@@ -10,7 +10,7 @@ title: Reading list
 </script>
 
 <div class="message">
-  This is what I have been reading. Email me on gaurish@katlana.com. If you want to discuss or just chat. I mostly read non-fiction books.
+  This is what I have been reading. Email me on gaurish@katlana.com. If you want to discuss or just chat. I mostly read non-fiction books. [My spotify profile](https://open.spotify.com/user/uqwo3dnhsk8xktn3hazn67fj9?si=018e3a16bdc74825)
 </div>
 
 ## Future/Currently Reading

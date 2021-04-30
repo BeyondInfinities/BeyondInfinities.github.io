@@ -13,7 +13,10 @@ I love to watch movies, have a really weird taste in movies. As a rule, I watch 
 - Sweeney Todd
 - Us and them
 - Akira
--  
+- Y tu mama tambien
+- Capernaum
+- The secret in their eyes
+- Miracle in cell no. 7
 
 ## 2020
 
