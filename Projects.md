@@ -12,7 +12,6 @@ This is a list of projects I have done over the years.
 ![Unavailable](/public/ideal.png)
 A project that was made in order to create a point based system to measure building accessibility score to create positive incentives for architects to design for everyone.
 2. Auto-applier
-<img src="drawing.jpg" alt="Photo" width="200"/>
 ![Not Unavailable](https://media.mktg.workday.com/is/image/workday/screenshot-student-profile-dashboard-desktop-2?fmt=png-alpha&wid=1000)
 An internship autoapplier that aimes to automate the process of applying to internships by customizing resume and coverletter for every internship description. The goal is to use NLP in order to filter relevant words from job description and use the same words in resume. While customizing a cover letter template.  
 3. Decision memo: Ministry of Women, Family and Human Rights, Brazil, and Ministry Data Scientists
